@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="CurrentCity">Current city not set yet</string>
+    <string name="setcity">Set Current city</string>
+    <string name="OK">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Key">n4PxkbGBHyuFCMITR5ZxemYgBFwx1AvN</string>
+    <string name="SearchCity">Search city</string>
+    <string name="condition">Condition</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="MoreDetails">Click here for more details</string>
+    <string name="Save">Save city</string>
+    <string name="Current">Set as current</string>
+    <string name="Info">There are no cities to display. Search the city from the search box and save.</string>
+    <string name="savedcities">Saved cities</string>
+</resources>
